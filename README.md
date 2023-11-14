@@ -6,5 +6,5 @@
             git commit -m
             git push
 
-Although I must note that the Github Desktop does a fine job doing most of the elbow greasing.
+Although I must note that the GitHub Desktop does a fine job doing most of the elbow greasing.
         
